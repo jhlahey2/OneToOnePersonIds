@@ -28,5 +28,5 @@ public class JsonController {
         return personRepository.findAll();
     }
 
-    
+
 }
